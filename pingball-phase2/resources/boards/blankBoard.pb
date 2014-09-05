@@ -1,0 +1,1 @@
+board name=BlankBoard gravity = 20.0  friction1 = 0.020 friction2 = 0.020
